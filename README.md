@@ -10,6 +10,7 @@
 
 # PCB Specifications
 - Wi-Fi (CYW43340XKUBGT) New name Infineon
+- Driver https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/cyw43340xkubgt/ 
 - How to programm Cypress using WICED Video
 - https://www.digikey.com/en/products/detail/cypress-semiconductor-corp/CYW43340XKUBGT/6150851
   - On Mbed?
